@@ -1,0 +1,21 @@
+# dependencies
+robofriends/node_modules
+robofriends/.pnp
+robofriends/.pnp.js
+
+# testing
+robofriends/coverage
+
+# production
+robofriends/build
+
+# misc
+robofriends/.DS_Store
+robofriends/.env.local
+robofriends/.env.development.local
+robofriends/.env.test.local
+robofriends/.env.production.local
+
+robofriends/npm-debug.log*
+robofriends/yarn-debug.log*
+robofriends/yarn-error.log*
